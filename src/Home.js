@@ -8,20 +8,26 @@ import React from 'react';
 // import AlertExample from './AlertExample';
 // import GeolocationExample from './GeolocationExample';
 // import AsyncStorageExample from './AsyncStorageExample';
-import CameraExample from './CameraExample';
+// import CameraExample from './CameraExample';
+// import NavigationExample from './NavigationExample';
+// import TabNavigationExample from './TabNavigationExample';
+import DrawerLayoutExample from './DrawerLayoutExample';
 
 const Home = () => {
-   return (
-      // <Animations />
-      // <ActivityIndicatorExample />
-      // <PickerExample />
-      // <StatusBar barStyle="dark-content" hidden={false} />
-      // <SwitchExample />
-      // <TextExample />
-      // <AlertExample />
-      // <GeolocationExample />
-      <AsyncStorageExample />
-   );
+  return (
+    // <Animations />
+    // <ActivityIndicatorExample />
+    // <PickerExample />
+    // <StatusBar barStyle="dark-content" hidden={false} />
+    // <SwitchExample />
+    // <TextExample />
+    // <AlertExample />
+    // <GeolocationExample />
+    // <AsyncStorageExample />
+    // <NavigationExample />
+    // <TabNavigationExample />
+    <DrawerLayoutExample />
+  );
 }
 
 export default Home;
