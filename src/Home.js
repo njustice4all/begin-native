@@ -11,7 +11,8 @@ import React from 'react';
 // import CameraExample from './CameraExample';
 // import NavigationExample from './NavigationExample';
 // import TabNavigationExample from './TabNavigationExample';
-import DrawerLayoutExample from './DrawerLayoutExample';
+// import DrawerLayoutExample from './DrawerLayoutExample';
+import FlatListExample from './FlatListExample';
 
 const Home = () => {
   return (
@@ -26,7 +27,8 @@ const Home = () => {
     // <AsyncStorageExample />
     // <NavigationExample />
     // <TabNavigationExample />
-    <DrawerLayoutExample />
+    // <DrawerLayoutExample />
+    <FlatListExample />
   );
 }
 
