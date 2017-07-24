@@ -12,7 +12,11 @@ import React from 'react';
 // import NavigationExample from './NavigationExample';
 // import TabNavigationExample from './TabNavigationExample';
 // import DrawerLayoutExample from './DrawerLayoutExample';
-import FlatListExample from './FlatListExample';
+// import FlatListExample from './FlatListExample';
+// import FlexExample from './FlexExample';
+// import FlexExample2 from './FlexExample2';
+// import FlexDrmoaTabs from './FlexDrmoaTabs';
+import DrmoaContainer from './drmoa/DrmoaContainer';
 
 const Home = () => {
   return (
@@ -28,7 +32,11 @@ const Home = () => {
     // <NavigationExample />
     // <TabNavigationExample />
     // <DrawerLayoutExample />
-    <FlatListExample />
+    // <FlatListExample />
+    // <FlexExample />
+    // <FlexExample2 />
+    // <FlexDrmoaTabs />
+    <DrmoaContainer />
   );
 }
 
